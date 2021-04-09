@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Galien';
+    src: url('Galien-Regular.woff2') format('woff2'),
+        url('Galien-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
